@@ -1,0 +1,97 @@
+IP: 192.168.8.109
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0IP: 178.167.195.111
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0IP: 54.83.52.76
+ User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11IP: 178.167.195.111
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0IP: 178.167.195.111
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0IP: 178.167.195.111
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0IP: 178.167.195.111
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0IP: 178.167.195.111
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0IP: 80.233.47.118
+ User-Agent: Mozilla/5.0 (Linux; Android 5.1.1; SM-J320FN Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/179.0.0.26.71;]IP: 54.83.52.76
+ User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11IP: 54.83.52.76
+ User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11IP: 50.7.112.85
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36IP: 50.7.112.85
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36IP: 50.7.112.85
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36IP: 50.7.112.85
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36IP: 50.7.112.85
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36IP: 50.7.112.85
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36IP: 103.7.78.28
+ User-Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36IP: 54.83.52.76
+ User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11IP: 2401:4900:274d:d10:d514:e402:d057:2c0d
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Redmi Note 5 pro Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/185.0.0.39.72;]IP: 2405:205:84:ea65:7867:46f5:ff77:740d
+ User-Agent: Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36IP: 197.226.15.128
+ User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0IP: 197.226.15.128
+ User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0IP: 119.30.47.22
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36IP: 34.230.78.27
+ User-Agent: bitlybot/3.0 (+http://bit.ly/)IP: 2a00:4ce0:4:104:ae16:2dff:fe8c:6530
+ User-Agent: Mozilla/5.0 (TweetmemeBot/4.0; +http://datasift.com/bot.html) Gecko/20100101 Firefox/31.0IP: 2001:bb6:220f:6258:50c0:8c94:a45:c079
+ User-Agent: Mozilla/5.0 (Linux; Android 7.0; SM-J330F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/180.0.0.24.76;]IP: 2001:bb6:220f:6258:50c0:8c94:a45:c079
+ User-Agent: Mozilla/5.0 (Linux; Android 7.0; SM-J330F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/180.0.0.24.76;]IP: 197.156.86.167
+ User-Agent: Opera/9.80 (Android; Opera Mini/32.0.2254/111.24; U; en) Presto/2.12.423 Version/12.16IP: 197.156.86.167
+ User-Agent: Opera/9.80 (Android; Opera Mini/32.0.2254/111.24; U; en) Presto/2.12.423 Version/12.16IP: 103.255.6.3
+ User-Agent: Mozilla/5.0 (Linux; Android 7.1.1; SM-J250F Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/179.0.0.44.83;]IP: 223.182.19.83
+ User-Agent: Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36IP: 223.182.19.83
+ User-Agent: Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36IP: 41.190.12.30
+ User-Agent: Opera/9.80 (J2ME/MIDP; Opera Mini/4.5.40312/111.24; U; en) Presto/2.12.423 Version/12.16IP: 91.177.156.124
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; ONEPLUS A5010 Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/185.0.0.39.72;]IP: 154.160.17.213
+ User-Agent: Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; Microsoft; Lumia 640 Dual SIM) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537IP: 178.167.195.111
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0IP: 107.170.242.192
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; EML-L09 Build/HUAWEIEML-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 54.86.37.102
+ User-Agent: bitlybot/3.0 (+http://bit.ly/)IP: 2a00:4ce0:4:106:f24d:a2ff:fe73:1544
+ User-Agent: Mozilla/5.0 (TweetmemeBot/4.0; +http://datasift.com/bot.html) Gecko/20100101 Firefox/31.0IP: 2402:8100:3951:935c::1
+ User-Agent: Mozilla/5.0 (Linux; Android 6.0; X28 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 58.84.15.153
+ User-Agent: Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; Microsoft; Lumia 535 Dual SIM) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537IP: 117.230.9.71
+ User-Agent: Dorado WAP-Browser/1.0.0IP: 197.242.116.8
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16A5345f [FBAN/FBIOS;FBAV/176.0.0.70.93;FBBV/113661473;FBDV/iPhone9,2;FBMD/iPhone;FBSN/iOS;FBSV/12.0;FBSS/3;FBCR/Airtel;FBID/phone;FBLC/en_US;FBOP/5;FBRV/0]IP: 2405:204:a111:b0b5:82d0:c6e6:2bd4:1643
+ User-Agent: Mozilla/5.0 (Linux; Android 7.1.2; Redmi 5A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 2405:204:a111:b0b5:82d0:c6e6:2bd4:1643
+ User-Agent: Mozilla/5.0 (Linux; Android 7.1.2; Redmi 5A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 2409:4072:6189:1a9c::f54:b0a1
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; vivo 1802 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/152.0.0.42.136;]IP: 41.66.202.106
+ User-Agent: Mozilla/5.0 (Linux; Android 6.0; TECNO-C9 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/182.0.0.44.77;]IP: 54.83.52.76
+ User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11IP: 82.25.247.105
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_1 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Mobile/15C153 [FBAN/MessengerForiOS;FBDV/iPhone9,4;FBMD/iPhone;FBSN/iOS;FBSV/11.2.1;FBSS/3;FBCR/EE;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/0]IP: 82.25.247.105
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_1 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Mobile/15C153 [FBAN/MessengerForiOS;FBDV/iPhone9,4;FBMD/iPhone;FBSN/iOS;FBSV/11.2.1;FBSS/3;FBCR/EE;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/0]IP: 82.25.247.105
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36IP: 82.25.247.105
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36IP: 54.210.113.231
+ User-Agent: bitlybot/3.0 (+http://bit.ly/)IP: 2a00:4ce0:4:104:ae16:2dff:fe8c:6530
+ User-Agent: Mozilla/5.0 (TweetmemeBot/4.0; +http://datasift.com/bot.html) Gecko/20100101 Firefox/31.0IP: 197.211.63.68
+ User-Agent: Opera/9.80 (MAUI Runtime; Opera Mini/4.4.33576/111.24; U; en) Presto/2.12.423 Version/12.16IP: 208.97.140.171
+ User-Agent: Mozilla/5.0 (Linux; Android 6.0.1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36IP: 208.97.140.171
+ User-Agent: Mozilla/5.0 (Linux; Android 6.0.1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36IP: 2405:204:3218:d89e:252f:47b6:86b1:96d0
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36IP: 2001:bb6:3e1a:b858:c8b2:12de:94f1:5a75
+ User-Agent: Mozilla/5.0 (Linux; Android 6.0; MYA-L11 Build/HUAWEIMYA-L11; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/180.0.0.24.76;]IP: 54.83.52.76
+ User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11IP: 54.210.113.231
+ User-Agent: bitlybot/3.0 (+http://bit.ly/)IP: 54.86.37.102
+ User-Agent: bitlybot/3.0 (+http://bit.ly/)IP: 2600:1700:6ee1:2460:2813:6df9:3a8f:ded7
+ User-Agent: Mozilla/5.0 (Linux; Android 7.0; SAMSUNG-SM-G925A Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/186.0.0.48.81;]IP: 2a00:4ce0:4:105:3617:ebff:fee3:fe4f
+ User-Agent: Mozilla/5.0 (TweetmemeBot/4.0; +http://datasift.com/bot.html) Gecko/20100101 Firefox/31.0IP: 34.230.78.27
+ User-Agent: bitlybot/3.0 (+http://bit.ly/)IP: 54.86.37.102
+ User-Agent: bitlybot/3.0 (+http://bit.ly/)IP: 2601:280:4500:2c6c:bd14:3d81:6d93:eaf6
+ User-Agent: Mozilla/5.0 (Linux; Android 7.1.1; Z851M Build/NMF26V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 66.71.244.98
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15G77 [FBAN/FBIOS;FBAV/179.0.0.50.82;FBBV/116150041;FBDV/iPhone10,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/3;FBCR/AT&T;FBID/phone;FBLC/en_US;FBOP/5;FBRV/0]IP: 47.208.68.8
+ User-Agent: Mozilla/5.0 (iPod touch; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15G77 [FBAN/FBIOS;FBDV/iPod7,1;FBMD/iPod touch;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/;FBID/phone;FBLC/en_US;FBOP/5;FBRV/122402628]IP: 47.208.68.8
+ User-Agent: Mozilla/5.0 (iPod touch; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15G77 [FBAN/FBIOS;FBDV/iPod7,1;FBMD/iPod touch;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/;FBID/phone;FBLC/en_US;FBOP/5;FBRV/122402628]IP: 108.64.142.10
+ User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; SM-G965U1 Build/R16NW; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/181.0.0.36.82;]IP: 107.242.117.10
+ User-Agent: Mozilla/5.0 (Linux; Android 7.1.1; Z965 Build/NMF26V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/171.0.0.49.92;]IP: 2601:246:4501:d3f8:5d37:a5d4:4bd2:83ba
+ User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-N950U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36IP: 2600:1:d71c:57d5:f18b:594a:a33:3157
+ User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-J327P Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.2 Chrome/59.0.3071.125 Mobile Safari/537.36IP: 2600:1700:8cd0:b180:193a:f696:5aa2:2f46
+ User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-N950U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36IP: 54.83.52.76
+ User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11IP: 80.233.36.77
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36IP: 80.233.36.77
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36IP: 80.233.36.77
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36IP: 80.233.36.77
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36IP: 92.251.228.209
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0IP: 92.251.228.209
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0IP: 92.251.228.209
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0IP: 54.83.52.76
+ User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11IP: 106.208.13.96
+ User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.0.5) Gecko/200900101 Firefox/3.0.5IP: 88.241.39.166
+ User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-N910C Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/189.0.0.35.91;]IP: 88.241.39.166
+ User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-N910C Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/189.0.0.35.91;]IP: 54.83.52.76
+ User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11IP: 80.233.33.38
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16A366 [FBAN/MessengerForiOS;FBAV/184.0.0.44.93;FBBV/124427409;FBDV/iPhone8,1;FBMD/iPhone;FBSN/iOS;FBSV/12.0;FBSS/2;FBCR/3Ireland;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/0]IP: 80.233.33.38
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16A366 [FBAN/MessengerForiOS;FBAV/184.0.0.44.93;FBBV/124427409;FBDV/iPhone8,1;FBMD/iPhone;FBSN/iOS;FBSV/12.0;FBSS/2;FBCR/3Ireland;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/0]IP: 54.83.52.76
+ User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11IP: 54.83.52.76
+ User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11IP: 54.83.52.76
+ User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11IP: 178.167.195.79
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36IP: 54.83.52.76
+ User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11
