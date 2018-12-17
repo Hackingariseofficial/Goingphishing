@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 figlet  GOINGPHISHIG
 trap 'printf "\n";stop;exit 1' 2
 
